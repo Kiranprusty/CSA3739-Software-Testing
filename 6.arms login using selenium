@@ -72,7 +72,7 @@ public class test {
 		username.sendKeys("192111027");
 		
 		
-		password.sendKeys("kiran@1812");
+		password.sendKeys("");
 		login.click();
 
 	}
